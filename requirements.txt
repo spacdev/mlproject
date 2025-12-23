@@ -1,2 +1,6 @@
 pandas
--e .
+scikit-learn
+catboost
+xgboost
+numpy
+#-e .
